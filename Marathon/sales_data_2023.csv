@@ -1,5 +1,5 @@
-Region Product Sales
-North ProductA 1200
-North ProductB 2200
-South ProductA 1800
-South ProductB 2800
+Region,Product,Sales
+North,ProductA,1200
+North,ProductB,2200
+South,ProductA,1800
+South,ProductB,2800
